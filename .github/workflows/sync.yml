@@ -26,8 +26,8 @@ jobs:
 
       - name: Configure git
         run: |
-          git config user.name "DeafAUTH Sync Bot"
-          git config user.email "sync@deafauth.org"
+          git config user.name "Pinky Collie"
+          git config user.email "pinkycollie@outlook.com"
 
       - name: Push to target repository
         run: |
