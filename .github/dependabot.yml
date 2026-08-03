@@ -9,9 +9,9 @@ updates:
       time: "09:00"
     open-pull-requests-limit: 10
     reviewers:
-      - "pinkycollie"
+      - "copilot"
     assignees:
-      - "pinkycollie"
+      - "dependabot"
     labels:
       - "dependencies"
       - "npm"
@@ -51,7 +51,7 @@ updates:
       interval: "weekly"
       day: "monday"
     reviewers:
-      - "pinkycollie"
+      - "GitHu-actions-bot"
     assignees:
       - "pinkycollie"
     labels:
